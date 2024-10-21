@@ -22,4 +22,5 @@ This is a simple **GPS tracking app** that allows users to:
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/f2b9a3b3-fd62-4dac-9316-1bce408b8bcc)
+-||
 ![image](https://github.com/user-attachments/assets/5f0f6273-50ae-461b-b297-829467d31c18)
